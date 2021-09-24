@@ -1,0 +1,2 @@
+arrival_ts,accuracy
+54377443591590,3

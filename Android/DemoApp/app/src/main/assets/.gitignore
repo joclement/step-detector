@@ -1,0 +1,5 @@
+*
+# for the neural network models
+!*.pb
+!*.tflite
+!.gitignore

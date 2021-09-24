@@ -1,0 +1,26 @@
+<resources>
+    <string name="recordStart">Start Recording</string>
+    <string name="recordStop">Stop Recording</string>
+
+    <string name="app_name">StepDetectionRecording</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_record">Recording</string>
+
+    <string name="pref_name">Your Name</string>
+    <string name="pref_gender">Gender</string>
+    <string name="pref_age">Age</string>
+    <string name="pref_height">Height in cm</string>
+
+    <string-array name="pref_gender_values" >
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+        <item>Rather not say</item>
+    </string-array>
+
+    <string name="recorder_notification_title">Record Service</string>
+    <string name="recorder_notification_msg">Recording sensor data in background</string>
+    <string name="defaultValue">Unknown</string>
+    <string name="off">off</string>
+</resources>

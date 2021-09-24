@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="startDemo">Start Demo</string>
+    <string name="notWalking">Not Walking!</string>
+    <string name="walking">Walking!</string>
+    <string name="stopDemo">Stop Demo</string>
+    <string name="title_activity_demo">Demo</string>
+    <string name="notStarted">No output yet.</string>
+</resources>

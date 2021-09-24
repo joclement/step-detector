@@ -1,0 +1,4 @@
+arrival_ts,event_ts,duration,stride_x,stride_y,stride_z,is_lm_present,inst_stride_len,inst_cascade,inst_speed,is_td_present,running,sequence_num
+63080786367633,422888,1059,-287,-935,119,true,97,0.0,-1.0,false,true,2666
+63082515318830,424465,819,801,-854,44,true,117,0.0,-1.0,false,true,2972
+63083693003465,425963,420,187,-89,18,true,20,0.0,-1.0,false,true,3194

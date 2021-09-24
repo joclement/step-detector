@@ -1,0 +1,35 @@
+Recording1:
+rechte Hand,senkrecht
+-Treppe,stehen
+
+Recording2:
+rechte Hand,senkrecht
+gehen,stehjen,auf Stelle gehen, stehen, gehen, auf Stelle gehen
+
+Recording3:
+rechte Hand, waagerecht
+gehen, auf Stelle gehen, gehen, stehen, 180 Grad Drehung, gehen, auf Stelle gehen, stehen
+
+Recording4:
+linke Hand, senkrecht
+gehen Kreis rechts,stehen, gehen Kreis links
+
+Recording5:
+linke Hand, alternierend senkreicht/waagerecht
+gehen, stehen, auf Stelle gehen
+
+Recording6:
+in Tasche
+aufschreiben im Stehen, gehen, Uturn, gehen
+
+Recording7:
+rechte Hand, senkrecht
+gehen, stehen mit hoch und runter Bewegung von Handy, gehen
+
+Recording8:
+rechte Hand, senkrecht, permanent wippen(hoch und runter Bewegung von Handy)
+gehen,stehen auf Stelle gehen
+
+Recording9:
+rechte Hand, waagerecht
+gehen,Tür auf, Treppe
